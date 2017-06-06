@@ -1,0 +1,2 @@
+<?php die('forbidden'); ?>
+{"appid":"101388326","appkey":"c5f0cbf98f7e87a2af29cd0147dd3754","callback":"http://localhost/coalball/callback.php","scope":"get_user_info,add_share,list_album,add_album","errorReport":true,"storageType":"file","host":"localhost","user":"root","password":"root","database":"test"}

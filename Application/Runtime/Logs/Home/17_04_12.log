@@ -1,0 +1,3 @@
+[ 2017-04-12T22:40:57+08:00 ] 104.236.236.145 /coalball/index.php
+ERR: SQLSTATE[42000] [1049] Unknown database 'coalball'
+
