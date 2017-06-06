@@ -4,7 +4,7 @@
 var message;
 //*****************配置内容
 
-var config_Address = "123.207.83.243" ; //服务器测试适用
+var config_Address = "202.119.206.98" ; //服务器测试适用
 //var config_Address = "localhost";  //本地开发测试适用
 
 //*****************配置内容
